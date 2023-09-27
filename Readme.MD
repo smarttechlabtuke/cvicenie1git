@@ -1,1 +1,2 @@
 //Readme
+prva uprava programu
